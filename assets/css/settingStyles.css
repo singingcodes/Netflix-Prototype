@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+.navbar {
+  background-color: #141414;
+  height: 60px;
+}
+nav .navbar-nav li a {
+  color: white;
+}
+.navbar {
+  font-size: 0.85rem;
+}
+
+.navbar-brand img {
+  margin-left: -11px;
+}
+
+.navbar-nav {
+  font-weight: 600;
+}
+
+.navbar-nav .nav-item.active .nav-link {
+  font-weight: 700;
+}
+i.bi {
+  font-size: 1.1rem;
+}
+
+.dropdown i.bi {
+  font-size: 1.2rem;
+}
+.icon {
+  color: white;
+  position: relative;
+  top: 10px;
+  font-size: 20px;
+}
+a:link {
+  text-decoration: none;
+}
+.kids-item {
+  color: rgba(255, 255, 255, 0.5);
+  font-weight: 600;
+}
+
+.change-settings ul li {
+  align-items: right;
+}
+.divider {
+  width: 75%;
+  text-align: right;
+  margin-right: 0;
+}
+.admin {
+  color: #141414;
+}
+.p-text {
+  color: #c4c4c4;
+}
+h5 {
+  color: #c4c4c4;
+}
+input {
+  background-color: #c5c5c5;
+}
